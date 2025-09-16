@@ -18,6 +18,3 @@ This folder contains Data Flow Diagram(s) that map how data moves through the Ai
 2. Export as PNG (File → Export PNG) and save the file as `data-flow.png`.
 3. Copy/move the PNG into this folder.
 
-## Example mermaid diagrams
-- DFD Level 0 (context) — `mermaid-level0` (use first code block)
-- DFD Level 1 (detailed) — `mermaid-level1` (use second code block)
